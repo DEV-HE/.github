@@ -26,8 +26,8 @@ Our vision at DEV-HE is to revolutionize the digital landscape by providing inno
 
 Meet the talented developers behind DEV-HE:
 
-1. **[Developer Name 1]:**
-   - [Brief introduction and expertise]
+1. **[Héctor Manuel Ruiz Juárez](https://github.com/HectorManu):**
+   - Passionate about data science and software development. My passion for drawing is my favorite hobby. I enjoy helping my colleagues grow, sharing knowledge and learning from their experience. I am always open to new opportunities to learn and grow together. I firmly believe that if a person has curiosity he can learn with the necessary tools. 
    
 2. **[Developer Name 2]:**
    - [Brief introduction and expertise]
