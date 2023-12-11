@@ -29,8 +29,8 @@ Meet the talented developers behind DEV-HE:
 1. **[Héctor Manuel Ruiz Juárez](https://github.com/HectorManu):**
    - Passionate about data science and software development. My passion for drawing is my favorite hobby. I enjoy helping my colleagues grow, sharing knowledge and learning from their experience. I am always open to new opportunities to learn and grow together. I firmly believe that if a person has curiosity he can learn with the necessary tools. 
    
-2. **[Developer Name 2]:**
-   - [Brief introduction and expertise]
+2. **[Eduardo Lugo Vela](https://github.com/JESUSLUG):**
+   - I'm passionate about web development, and my experience encompasses solutions for microbusinesses. I've worked in both front-end and backend roles. Additionally, I have expertise in cybersecurity and ethical hacking, and I have a strong affinity for process automation during development (DevOps).
 
 3. **[Developer Name 3]:**
    - [Brief introduction and expertise]
