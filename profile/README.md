@@ -32,8 +32,9 @@ Meet the talented developers behind DEV-HE:
 2. **[Eduardo Lugo Vela](https://github.com/JESUSLUG):**
    - I'm passionate about web development, and my experience encompasses solutions for microbusinesses. I've worked in both front-end and backend roles. Additionally, I have expertise in cybersecurity and ethical hacking, and I have a strong affinity for process automation during development (DevOps).
 
-3. **[Developer Name 3]:**
-   - [Brief introduction and expertise]
+3. **[Elias Uriel Xool Feria]:**
+   - Hi, I'm a front-end programmer looking to learn new skills and share with others. I have had the opportunity to give some workshops and participate in small tournaments thanks to the motivation of my friends and colleagues.
+Being 1% every day. 
 
 4. **[Developer Name 4]:**
    - [Brief introduction and expertise]
