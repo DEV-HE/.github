@@ -36,8 +36,8 @@ Meet the talented developers behind DEV-HE:
    - Hi, I'm a front-end programmer looking to learn new skills and share with others. I have had the opportunity to give some workshops and participate in small tournaments thanks to the motivation of my friends and colleagues.
 Being 1% every day. 
 
-4. **[Developer Name 4]:**
-   - [Brief introduction and expertise]
+4. **[Hugo Martínez González](https://github.com/depresionTropical):**
+   - I am an artificial intelligence and data science enthusiast.
 
 ## Contact Us
 
